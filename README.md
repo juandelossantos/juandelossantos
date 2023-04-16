@@ -7,7 +7,7 @@ Fullstack web developer
 * 🌍  I'm based in Colombia
 * 🖥️  See my portfolio at [Linkedin](https://www.www.linkedin.com/in/davidemiliosierrapuentes/)
 * ✉️  You can contact me at [david.sierra@deunaybienbonito.com](mailto:david.sierra@deunaybienbonito.com)
-* 🚀  I'm currently working on [Relatto](https://app.relatto.com) - [Subasta Futbolera](https://app.subastafutbolera.com) - [Creativa Motion](https://app.relatto.com](https://creativamotion.com/)
+* 🚀  I'm currently working on [Relatto](https://app.relatto.com) - [Subasta Futbolera](https://app.subastafutbolera.com) - [Creativa Motion](https://creativamotion.com/)
 * ⚡  I'm Sci-fi and Fantasy reader. Some day i'll be a writter.
 
 <a href="https://www.twitter.com/JuanDeLosSans" target="_blank" rel="noreferrer"><img
